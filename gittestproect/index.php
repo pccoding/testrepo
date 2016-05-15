@@ -11,9 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            this is test code
-            there is small change
-            this is only in branch one
+            <h1>test project</h1>
         ?>
     </body>
 </html>
