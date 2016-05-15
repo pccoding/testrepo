@@ -10,8 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php
-            <h1>test project</h1>
-        ?>
+        <h1>test project</h1>
     </body>
 </html>
